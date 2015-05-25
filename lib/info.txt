@@ -1,0 +1,4 @@
+In those 2 folders, the dependencies must be copied.
+
+The "natives" folder will contain the dynamic libraries (*.dylib, *.so)
+The "python" folder will contain the pythonc librarys (from Pypi, github)
